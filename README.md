@@ -11,4 +11,4 @@
 </ul>
 
 <h4>Enjoy it</h4>
-<code>Credist: Adrian Moloca</code>
+<code>Credits: Adrian Moloca</code>
