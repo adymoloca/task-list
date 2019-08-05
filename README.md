@@ -11,6 +11,5 @@
 </ul>
 
 <h4>Enjoy it</h4><br>
-<a href="https://www.adymoloca.com/app/task-list/" target="_blank">View Demo<a/>
-
+<a href="https://www.adymoloca.com/app/task-list/" target="_blank">View Demo<a/><br>
 <code>Credits: Adrian Moloca</code>
