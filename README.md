@@ -10,5 +10,7 @@
   <li>Remove tasks from local storage</li>
 </ul>
 
-<h4>Enjoy it</h4>
+<h4>Enjoy it</h4><br>
+<a href="https://www.adymoloca.com/app/task-list/" target="_blank">View Demo<a/>
+
 <code>Credits: Adrian Moloca</code>
